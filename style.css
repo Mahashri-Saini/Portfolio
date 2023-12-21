@@ -1,0 +1,111 @@
+body {
+    padding: 25px;
+    background-color: rgb(2, 2, 53);
+}
+
+header {
+    background-color: rgb(226, 190, 7);
+    height: 100px;
+    border-radius: 10px;
+    width: 100%;
+}
+
+#nav {
+    margin: 25px;
+    margin-left: 700px;
+}
+
+.nav {
+    text-decoration: none;
+    text-align: right;
+    color: black;
+    padding: 2px;
+    margin: 25px;
+}
+
+#name {
+    color: bisque;
+    font-size: 100px;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+}
+
+#home {
+    color: bisque;
+    padding: 5px;
+}
+
+.edu {
+    color: bisque;
+    padding: 10px;
+    margin: 20px;
+    margin-top: 0%;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+    border: 3px solid rgb(226, 190, 7);
+    border-radius: 20px;
+
+}
+
+
+#education {
+    color: bisque;
+    padding-top: 0%;
+    margin-top: 0%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+
+#skills {
+    color: bisque;
+    padding-top: 0%;
+    margin-top: 0%;
+    display: flex;
+    flex-direction: row;
+}
+
+.skills {
+    color: bisque;
+    padding: 25px;
+    margin: 25px;
+    margin-top: 0%;
+    border: 2px solid rgb(226, 190, 7);
+    border-radius: 10px;
+}
+
+#contact {
+    color: bisque;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.cont {
+    height: 50px;
+    width: 50px;
+    border: 7px solid rgb(226, 190, 7);
+    border-radius: 10px;
+    text-decoration: none;
+    text-align: justify;
+}
+
+.x {
+    text-decoration: none;
+    color: black;
+}
+
+.y {
+    padding: 40px;
+    padding-top: 0%;
+}
+
+.abc {
+    display: flex;
+    flex-direction: row;
+}
+
+.z {
+    margin-right: 100px;
+}
